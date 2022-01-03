@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Ragnarok</string>
+    <string name="content_description">image</string>
+    <string name="title_login">LOGIN</string>
+    <string name="et_hint_email_id">Endereço de E-mail</string>
+    <string name="et_hint_password">Senha</string>
+    <string name="lbl_forgot_password">Esqueceu a senha?</string>
+    <string name="btn_lbl_login">Login</string>
+    <string name="don_t_have_an_account">Não possui uma conta?</string>
+    <string name="register"><u>Cadastrar</u></string>
+
+    <string name="create_an_account">REGISTRAR USUÁRIO</string>
+    <string name="hint_first_name">Nome</string>
+    <string name="hint_last_name">Sobrenome</string>
+    <string name="et_hint_confirm_password">Confirmar Senha</string>
+    <string name="i_agree_to_the_terms_and_condition">Eu aceito os <u>Termos e Condições</u></string>
+    <string name="btn_lbl_register">Concluir Cadastro</string>
+    <string name="already_have_an_account">Já possui uma conta?</string>
+    <string name="login"><u>Login</u></string>
+    <string name="username">Nome de usuário</string>
+    <string name="fullname">Nome completo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="log_out">Log Out</string>
+    <string name="main_page">Página principal</string>
+    <string name="welcome">Bem-vindo!</string>
+
+    <string name="err_msg_enter_first_name">Por favor insira o nome.</string>
+    <string name="err_msg_enter_last_name">Por favor insira o sobrenome.</string>
+    <string name="err_msg_enter_email">Por favor insira o endereço de e-mail.</string>
+    <string name="err_msg_enter_password">Por favor insira a senha.</string>
+    <string name="err_msg_enter_confirm_password">Por favor insira a senha novamente.</string>
+    <string name="err_msg_password_and_confirm_password_mismatch">Senha não idêntica, tente novamente.</string>
+    <string name="err_msg_agree_terms_and_condition">Por favor aceite os Termos e Condições.</string>
+    <string name="register_successful">Cadastro realizado com sucesso!</string>
+    <string name="login_successful">Login realizado com sucesso!</string>
+    <string name="please_wait">Por favor aguarde&#8230;</string>
+
+    <string name="title_forgot_password">ESQUECEU A SENHA?</string>
+    <string name="forgot_password_title_description">Digite seu endereço de e-mail e nós lhe enviaremos um e-mail para redefinir sua senha.</string>
+    <string name="btn_lbl_submit">Enviar</string>
+    <string name="email_sent_success">E-mail enviado com sucesso para redefinir sua senha!</string>
+
+    <string name="title_complete_profile">COMPLETAR PERFIL</string>
+    <string name="et_hint_mobile_number">Número de Celular</string>
+    <string name="rb_lbl_male">MASCULINO</string>
+    <string name="rb_lbl_female">FEMININO</string>
+    <string name="btn_lbl_save">Salvar</string>
+
+    <string name="read_storage_permission_denied">Oops, você acabou de negar a permissão para armazenamento. Você também pode permitir a partir das configurações.</string>
+    <string name="image_selection_failed">Falha na seleção de imagem!</string>
+
+    <string name="err_msg_enter_mobile_number">Por favor insira o número de telefone.</string>
+
+    <string name="msg_user_profile_update_success">Perfil atualizado com sucesso!</string>
+    <!-- <string name="title_activity_dashboard">DashboardActivity</string> -->
+    <string name="title_games">Jogos</string>
+    <string name="title_dashboard">Página Inicial</string>
+    <string name="title_orders">Pedidos</string>
+
+    <string name="please_click_back_again_to_exit">Clique novamente para sair.</string>
+    <string name="action_settings">Configurações</string>
+
+    <string name="title_settings">Configurações</string>
+    <string name="lbl_edit">Editar</string>
+    <string name="lbl_addresses">Endereços</string>
+    <string name="btn_lbl_logout">Logout</string>
+    <string name="title_edit_profile">EDITAR PERFIL</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="product_details">Detalhes do Produto</string>
+    <string name="check_availability">Verificar disponibilidade</string>
+    <string name="settings">Configurações</string>
+    <string name="emulators">Emuladores</string>
+    <string name="game_list">Lista de Jogos</string>
+    <string name="logout">Encerrar Sessão</string>
+    <string name="search">Pesquisar</string>
+    <string name="search_game">Pesquisar jogo</string>
+    <string name="emulator_list">Lista de emuladores</string>
+    <string name="admin">Administrador</string>
+    <string name="admin_panel">Painel do Administrador</string>
+    <string name="hint_product_name">Nome do produto</string>
+    <string name="btn_lbl_register_product">Registrar Produto</string>
+    <string name="et_hint_search">Pesquisar por</string>
+    <string name="btn_lbl_search">Pesquisar</string>
+    <string name="cart">Carrinho de compras</string>
+    <string name="submit_order">Enviar Pedido</string>
+    <string name="credit_card_number">Número do cartão de crédito</string>
+    <string name="lbl_address">Endereço</string>
+    <string name="btn_register">Cadastrar</string>
+    <string name="product_title">Título</string>
+</resources>

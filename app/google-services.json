@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "256434773606",
+    "project_id": "ragnarok-2bd2d",
+    "storage_bucket": "ragnarok-2bd2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256434773606:android:f8f06b2ecde47a239f17a7",
+        "android_client_info": {
+          "package_name": "br.edu.ifam.ragnarok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256434773606-d20qrgbco4fuvo75ij1f5nl91933vb38.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.ifam.ragnarok",
+            "certificate_hash": "d31f213c72d0bed2603a3b18f1215c7162594ec7"
+          }
+        },
+        {
+          "client_id": "256434773606-nnqrro2pikfrcfmmpj8hn0atco9hfapb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.ifam.ragnarok",
+            "certificate_hash": "e0fdab2c9022e8247df5a288284fbfd6957ae927"
+          }
+        },
+        {
+          "client_id": "256434773606-tft7jf2irprat9ggm3org8m3p08pmnna.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.ifam.ragnarok",
+            "certificate_hash": "b20651c3a17f5d09c1ae0bc2cdd2853132172547"
+          }
+        },
+        {
+          "client_id": "256434773606-e2cl3fodr41l3ab51pr106n8v17su3kg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpIuqzIo8Lkd2H1lSK9UZX7OeHnk69DeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256434773606-e2cl3fodr41l3ab51pr106n8v17su3kg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

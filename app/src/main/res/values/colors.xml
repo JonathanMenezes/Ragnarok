@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#280a50</color>
+    <color name="colorPrimaryDark">#280A50</color>
+    <color name="colorAccent">#280a50</color>
+    <color name="colorThemeViolet">#3d1472</color>
+    <color name="colorThemePurple">#280a50</color>
+
+    <color name="colorPrimaryText">#222934</color>
+    <color name="colorSecondaryText">#989898</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+
+    <color name="colorSnackBarSuccess">#8BC34A</color>
+    <color name="colorSnackBarError">#F72400</color>
+    
+    <color name="colorLightGrey">#F1F1F1</color>
+    <color name="colorBorder">#E8E6E6</color>
+    <color name="colorDarkGrey">#878787</color>
+</resources>
